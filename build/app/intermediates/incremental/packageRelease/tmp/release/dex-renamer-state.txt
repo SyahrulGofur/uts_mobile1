@@ -1,0 +1,4 @@
+#Thu Nov 30 15:07:03 ICT 2023
+base.0=C\:\\Users\\asus\\Documents\\Projects\\vscode\\flutter\\mobileutssyahrul\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
